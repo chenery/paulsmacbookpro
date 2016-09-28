@@ -18,7 +18,7 @@
 
 	manually install vagrant & virtualbox
 	
-	brew info brew-pip
+	brew install python
 	brew install autoconf automake
 
 http://docs.python-guide.org/en/latest/starting/install/osx/
