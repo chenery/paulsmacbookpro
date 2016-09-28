@@ -17,7 +17,14 @@
 	brew install ansible
 
 	manually install vagrant & virtualbox
+	
+	brew info brew-pip
+	brew install autoconf automake
+
+http://docs.python-guide.org/en/latest/starting/install/osx/
 
 http://superuser.com/questions/433746/is-there-a-fix-for-the-too-many-open-files-in-system-error-on-os-x-10-7-1
 
 Number of open files: lsof -d "^txt" | wc -l
+
+
